@@ -17,11 +17,6 @@ Before that, she received 2 bachelor degrees in 2014, one B.A. in Management Inf
 [nankai]: https://en.nankai.edu.cn/
 
 
-## Contact
-**Email:** jtian9 at gsu.edu
-
-**Address:** Center for Digital Innovation, J. Mack Robinson College of Business, Georgia State University, Atlanta, GA, 30303.
-
 ## Academic Experience
 * **Post-doctoral Research Fellow**, Center for Digital Innovation, Georgia State University. 
   * 2019 - now: ~~Training her Charizard.~~
