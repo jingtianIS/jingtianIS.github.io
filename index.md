@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-# Welcome to Jing Tian's Home Page!
+# Welcome to Jing's Home Page!
 Jing Tian is a post-doctoral research fellow from the J.Mack Robinson College of Business in Gerogia State University. She works under the supervision of [Dr. Arun Rai][professor-rai].
 
 She received her Ph.D. in Information Management and Information Systems from [Fudan University][fudan] in 2019, under the supervision of [Dr. Ling][professor-ling]. 
