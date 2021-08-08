@@ -12,8 +12,8 @@ people:
 courses:
 
 social:
-- {icon: 'github', link: 'https://github.com/jingtianIS'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/jing-tian-6a4b55191/'}
+- {icon: 'github', link: 'https://github.com/jingtianIS'}
 
 contacts:
 - {name: 'Jing Tian', email: 'jtian9 at gsu.edu', image: "assets/img/contact.jpg"}
