@@ -17,3 +17,10 @@ Before that, she received 2 bachelor degrees in 2014, one B.A. in Management Inf
 [fudan]: https://www.fudan.edu.cn/en/
 [tianjin-u]: http://www.tju.edu.cn/english/index.htm
 [nankai]: https://en.nankai.edu.cn/
+
+---
+
+## Research Interests
+
+* **Topic**: AI Augmented Systems, AI Fairness, Explainable AI, Human-AI Interaction, Platform Governance, Platform Competition, IT Strategy
+* **Methodology**: Econometrics, Natural Language Processing, Machine learning, Experiments, Social Network Analysis
