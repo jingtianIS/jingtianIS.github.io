@@ -1,5 +1,8 @@
 featured:
-# - {name: 'Shinohara, N., K. Uchida, T. Yoshida. 2019. Contrasting effects of land-use changes on herbivory and pollination networks. Ecology and Evolution. 9(23): 13585-13595', url: 'https://onlinelibrary.wiley.com/doi/10.1002/ece3.5814'}
+# - {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
 
 index:
-# - {name: 'Shinohara, N., T. Yoshida. 2021 Why species richness of plants and herbivorous insects do or do not correlate. Ecological Research. 36:258–265', url: 'https://esj-journals.onlinelibrary.wiley.com/doi/10.1111/1440-1703.12189'#- {name: 'Shinohara, N., K. Uchida, T. Yoshida. 2019. Contrasting effects of land-use changes on herbivory and pollination networks. Ecology and Evolution. 9(23): 13585-13595', url: 'https://onlinelibrary.wiley.com/doi/10.1002/ece3.5814'}
+- {name: 'Xia Zhao, <span style="text-decoration: underline">Jing Tian</span>, and Ling Xue. "Herding and software adoption: A re-examination based on post-adoption software discontinuance," Journal of Management Information Systems, 2020, 37(2), 484-509.')
+- {name: '<span style="text-decoration: underline">Jing Tian</span>, Yicheng Zhang, and Cheng Zhang. "Predicting consumer variety-seeking through weather data analytics," Electronic Commerce Research and Applications, 2018, (28), 194-207. '}
+- {name: '<span style="text-decoration: underline">Jing Tian</span>, Yicheng Zhang, and Cheng Zhang. "Predicting consumer variety-seeking through weather data analytics," Electronic Commerce Research and Applications, 2018, (28), 194-207. '}
+#- {name: '', url: ''}
