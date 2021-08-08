@@ -1,4 +1,4 @@
-w---
+---
 layout: home
 title: "Home"
 ---
