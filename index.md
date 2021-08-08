@@ -1,4 +1,4 @@
----
+w---
 layout: home
 title: "Home"
 ---
@@ -22,7 +22,11 @@ Before that, she received 2 bachelor degrees in 2014, one B.A. in Management Inf
 ## Research Interests
 
 ### Topic
-* AI Augmented Systems, AI Fairness, Explainable AI, Human-AI Interaction, Platform Governance, Platform Competition, IT Strategy
+<ul>
+  <li> AI Augmented Systems, AI Fairness, Explainable AI, Human-AI Interaction, Platform Governance, Platform Competition, IT Strategy</li>
+</ul>
 
 ### Methodology
-* Econometrics, Natural Language Processing, Machine learning, Experiments, Social Network Analysis
+<ul>
+  <li> Econometrics, Natural Language Processing, Machine learning, Experiments, Social Network Analysis</li>
+</ul>
