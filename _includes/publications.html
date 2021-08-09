@@ -3,16 +3,21 @@
     {% if page.title == "Home" %}
       <h3 class="fw-bold border-bottom pb-3 mb-5">Refereed Journal Publications</h3>
       {% for item in site.data.publications.journal %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <!-- <p><a href="{{ item.url }}">{{ item.name }}</a></p>-->
+        <p>{ item.name }</p>
       {% endfor %}
     {% else %}
       <h3 class="fw-bold border-bottom pb-3 mb-5">Refereed Journal Publications</h3>
       {% for item in site.data.publications.journal %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p>{ item.name }</p>
       {% endfor %}
       <h3 class="fw-bold border-bottom pb-3 mb-5">Working Papers</h3>
       {% for item in site.data.publications.working %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p>{ item.name }</p>
+      {% endfor %}
+       <h3 class="fw-bold border-bottom pb-3 mb-5">Conferences Proceedings and Presentations</h3>
+      {% for item in site.data.publications.conference %}
+        <p>{ item.name }</p>
       {% endfor %}
     {% endif %}
   </div>
