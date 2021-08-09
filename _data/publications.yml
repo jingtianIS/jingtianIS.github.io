@@ -1,3 +1,4 @@
+#- {name: '', url: ''}
 journal:
 - {name: 'Xia Zhao, <b>Jing Tian</b>, and Ling Xue. "Herding and software adoption: A re-examination based on post-adoption software discontinuance," Journal of Management Information Systems, 2020, 37(2), 484-509.'}
 - {name: '<b>Jing Tian</b>, Yicheng Zhang, and Cheng Zhang. "Predicting consumer variety-seeking through weather data analytics," Electronic Commerce Research and Applications, 2018, (28), 194-207.'}
@@ -5,4 +6,17 @@ journal:
 
 working:
 - {name: '<b>Jing Tian</b>, Xia Zhao, and Ling Xue. "Platform Compatibility and Developer Multihoming: A Tradeoff Perspective," under the 3rd round review at MIS Quarterly.'}
-#- {name: '', url: ''}
+- {name: 'Arun Rai, <b>Jing Tian</b>, Ling Xue. "AI Fairness in Organizational Decisions: Conceptualization, Measurement, and Attainment from a Justice Theory Lens," with under final preparation for submission to MIS Quarterly.'}
+- {name: '<b>Jing Tian</b>, Ling Xue, Sean Cao and Yuan Long, "Transparency or Perception Manipulation? A Study of IT Disclosure Tone in the Context of Data Breaches," with target submission to Information Systems Research in Fall 2021'}
+- {name: '<b>Jing Tian</b> and Arun Rai. "Explainable AI and Human-AI Collaboration: A Control Perspective," target submission to a premier IS journal by December 2021.'}
+
+
+conference:
+- {name: '<b>Jing Tian</b>, Ling Xue, Sean Cao, and Yuan Long. "Transparency or Perception Manipulation? A Study of IT Disclosure Tone in the Context of Data Breaches," The 17th Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), Online, 2021'}
+- {name: '<b>Jing Tian</b>, Ling Xue, Sean Cao, and Yuan Long. "Transparency or Perception Manipulation? A Study of IT Disclosure Tone in the Context of Data Breaches," The 14th China Summer Workshop on Information Management (CSWIM), Online, 2021'}
+- {name: '<b>Jing Tian</b>, Arun Rai, and Ling Xue. "A Justice Theory Perspective of AI Fairness: Conceptualization, Measurement, and Attainment," CDIN Research Colloquium, April 2021 '}
+- {name: '<b>Jing Tian</b>, Xia Zhao, and Ling Xue. "Platform Compatibility and Developer Multihoming: A Study of Firefox and Chrome," The 51st Annual Conference of the Decision Sciences Institute, Online, 2020'}
+- {name: '<b>Jing Tian</b>, Xia Zhao, and Ling Xue. "Platform Compatibility and Developer Multihoming: A Study of Firefox and Chrome," Proceedings of the 11th INFORM Conference on Information Systems and Technology (CIST), Seattle, WA, 2019.'}
+- {name: '<b>Jing Tian</b>, Xia Zhao, and Ling Xue. "Technological compatibility between platforms and multi-homing of third-party developers," Proceedings of the 40th International Conference on Information Systems (ICIS), Munich, German, 2019.'}
+- {name: 'Jie Gu, <b>Jing Tian</b>, Xiaolun Wang, and Hong Ling. "Does Negative News Travel Fast? Exploring the Effect of News Sentiment on Interactive Spiral," The 19th International Conference on Human Computer Interaction, Vancouver, Canada, 2017.'}
+- {name: '<b>Jing Tian</b>, Yicheng Zhang, Chee Wei Phang, and Cheng Zhang, "Weather Effects on Consumer Variety seeking," The 20th Pacific-Asia Conference on Information Systems (PACIS), Chiayi, Taiwan, 2016.'}
