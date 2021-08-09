@@ -1,8 +1,8 @@
-featured:
-# - {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
+journal:
+- {name: 'Xia Zhao, <b>Jing Tian</b>, and Ling Xue. "Herding and software adoption: A re-examination based on post-adoption software discontinuance," Journal of Management Information Systems, 2020, 37(2), 484-509.'}
+- {name: '<b>Jing Tian</b>, Yicheng Zhang, and Cheng Zhang. "Predicting consumer variety-seeking through weather data analytics," Electronic Commerce Research and Applications, 2018, (28), 194-207.'}
+- {name: '<b>Jing Tian</b>, Xinlin Yao, and Cheng Zhang. "Knowledge Input and Output of Information System Field: 1990-2010," China Journal of Information Systems, 2017, (1), 84-93.'}
 
-index:
-- {name: 'Xia Zhao, <span style="text-decoration: underline">Jing Tian</span>, and Ling Xue. "Herding and software adoption: A re-examination based on post-adoption software discontinuance," Journal of Management Information Systems, 2020, 37(2), 484-509.'}
-- {name: '<span style="text-decoration: underline">Jing Tian</span>, Yicheng Zhang, and Cheng Zhang. "Predicting consumer variety-seeking through weather data analytics," Electronic Commerce Research and Applications, 2018, (28), 194-207.'}
-- {name: '<span style="text-decoration: underline">Jing Tian</span>, Xinlin Yao, and Cheng Zhang. "Knowledge Input and Output of Information System Field: 1990-2010," China Journal of Information Systems, 2017, (1), 84-93.'}
+working:
+- {name: '<b>Jing Tian</b>, Xia Zhao, and Ling Xue. "Platform Compatibility and Developer Multihoming: A Tradeoff Perspective," under the 3rd round review at MIS Quarterly.'}
 #- {name: '', url: ''}
