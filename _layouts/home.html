@@ -2,10 +2,18 @@
 layout: default
 ---
 
+<style>
+.center {
+  text-align: center;
+}
+</style>
+
 <div class="row g-5 mb-5">
   <div class="col-md-7">
     <!-- <h3 class="fw-bold">Research</h3> -->
-    {{ content }}
+    <div class="center">
+      {{ content }}
+    </div>
   </div>
   <div class="col-md-5">
     <img src="{{ site.github.url }}/assets/img/index.jpg" alt="Home" width="75%">
