@@ -3,15 +3,19 @@ layout: default
 ---
 
 <style>
-.center {
-  text-align: center;
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 </style>
 
 <div class="row g-5 mb-5">
   <div class="col-md-7">
     <!-- <h3 class="fw-bold">Research</h3> -->
-    <div class="center">
+    <div class="vertical-center">
       {{ content }}
     </div>
   </div>
