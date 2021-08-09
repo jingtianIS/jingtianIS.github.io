@@ -5,8 +5,9 @@
     {% for contact in site.data.settings.contacts %}
     <div class="row g-5 mb-5">
       <div class="col-md-6">
-        <p>{{ contact.name }}</p>
-        <p>{{ contact.title }} | {{ contact.department }} | {{ contact.institution }} </p>
+        <p>Name: {{ contact.name }}</p>
+        <p>Title: {{ contact.title }} </p>
+        <p>Institution: {{ contact.department }} | {{ contact.institution }} </p>      
         <p>Address: {{ contact.institution_address }}</p>
         <!-- <p>Phone: {{ contact.phone }}</p> -->        
         <p>Email: {{ contact.email }}</p>
