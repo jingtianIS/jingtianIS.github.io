@@ -16,4 +16,4 @@ social:
 - {icon: 'github', link: 'https://github.com/jingtianIS'}
 
 contacts:
-- {name: 'Jing Tian', title: 'Post-doctoral Research Fellow', institution: 'Gerogia State University', institution_address: 'Center for Digital Innovation, J. Mack Robinson College of Business, Georgia State University, Atlanta, GA, 30303', email: 'jtian9 at gsu.edu', image: "assets/img/contact.jpg"}
+- {name: 'Jing Tian', title: 'Post-doctoral Research Fellow', department: 'Center for Digital Innovation', institution: 'Gerogia State University', institution_address: 'Center for Digital Innovation, J. Mack Robinson College of Business, Georgia State University, Atlanta, GA, 30303', email: 'jtian9 at gsu.edu', image: "assets/img/contact.jpg"}
