@@ -4,6 +4,7 @@ menu:
 # - {name: 'Reseach', url: '/research'}
 - {name: 'Publications', url: '/publications'}
 # - {name: 'courses', url: '/courses'}
+- {name: "Teaching", url: '/teaching'}
 - {name: 'CV', url: '/cv'}
 - {name: 'Contact', url: '/contact'}
 
@@ -13,7 +14,7 @@ courses:
 
 social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/jing-tian-6a4b55191/'}
-- {icon: 'github', link: 'https://github.com/jingtianIS'}
+# - {icon: 'github', link: 'https://github.com/jingtianIS'}
 
 contacts:
 - {name: 'Jing Tian', title: 'Post-doctoral Research Fellow', department: 'Center for Digital Innovation', institution: 'Gerogia State University', institution_address: 'Center for Digital Innovation, J. Mack Robinson College of Business, Georgia State University, Atlanta, GA, 30303', email: 'jtian9 at gsu.edu', image: "assets/img/contact.jpg"}
