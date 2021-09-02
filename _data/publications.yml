@@ -1,13 +1,12 @@
 selected_journal:
-- {name: 'Xia Zhao, <b>Jing Tian</b>, and Ling Xue. "Herding and software adoption: A re-examination based on post-adoption software discontinuance," Journal of Management Information Systems, 2020, 37(2), 484-509.'}
-- {name: '<b>Jing Tian</b>, Yicheng Zhang, and Cheng Zhang. "Predicting consumer variety-seeking through weather data analytics," Electronic Commerce Research and Applications, 2018, (28), 194-207.'}
-- {name: '<b>Jing Tian</b>, Xinlin Yao, and Cheng Zhang. "Knowledge Input and Output of Information System Field: 1990-2010," China Journal of Information Systems, 2017, (1), 84-93.'}
+- {name: '<b>Jing Tian</b>, Xia Zhao, and Ling Xue. "Platform Compatibility and Developer Multihoming: A Tradeoff Perspective," conditionally accepted at <i>MIS Quarterly</i>.'}
+- {name: 'Xia Zhao, <b>Jing Tian</b>, and Ling Xue. "Herding and software adoption: A re-examination based on post-adoption software discontinuance," <i>Journal of Management Information Systems</i>, 2020, 37(2), 484-509.'}
+- {name: '<b>Jing Tian</b>, Yicheng Zhang, and Cheng Zhang. "Predicting consumer variety-seeking through weather data analytics," <i>Electronic Commerce Research and Applications</i>, 2018, (28), 194-207.'}
 
 other_journal:
 #- {name: '', url: ''}
 
 working:
-- {name: '<b>Jing Tian</b>, Xia Zhao, and Ling Xue. "Platform Compatibility and Developer Multihoming: A Tradeoff Perspective," under the 3rd round review at MIS Quarterly.'}
 - {name: 'Arun Rai, <b>Jing Tian</b>, Ling Xue. "AI Fairness in Organizational Decisions: Conceptualization, Measurement, and Attainment from a Justice Theory Lens," with under final preparation for submission to MIS Quarterly.'}
 - {name: '<b>Jing Tian</b>, Ling Xue, Sean Cao and Yuan Long, "Transparency or Perception Manipulation? A Study of IT Disclosure Tone in the Context of Data Breaches," with target submission to Information Systems Research in Fall 2021.'}
 - {name: '<b>Jing Tian</b> and Arun Rai. "Explainable AI and Human-AI Collaboration: A Control Perspective," target submission to a premier IS journal by December 2021.'}
