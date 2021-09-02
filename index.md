@@ -10,6 +10,8 @@ My research interests lie at the intersection of organizational, behavioral and 
 
 I am always happy to chat about research so please don’t hesitate to reach out!
 
+Email: jtian9 at gsu.edu
+
 [professor-rai]: https://www.arunrai.net/
 [professor-ling]: https://www.fdsm.fudan.edu.cn/en/teacher/preview.aspx?UID=1816
 
