@@ -6,7 +6,7 @@ menu:
 # - {name: 'courses', url: '/courses'}
 - {name: "Teaching", url: '/teaching'}
 - {name: 'CV', url: '/cv'}
-- {name: 'Contact', url: '/contact'}
+#- {name: 'Contact', url: '/contact'}
 
 people:
 
