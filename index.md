@@ -4,11 +4,9 @@ title: "Home"
 ---
 
 
-Jing Tian is a Post-doctoral Research Fellow at [Center for Digital Innovation (CDIN)](cdin-gsu), J. Mack Robinson College of Business, Georgia State University. She works under the supervision of [Dr. Arun Rai][professor-rai].
+I am a Post-doctoral Research Fellow at [Center for Digital Innovation (CDIN)](cdin-gsu), J. Mack Robinson College of Business, Georgia State University. She works under the supervision of [Dr. Arun Rai][professor-rai]. I received my Ph.D. in Information Systems at [Fudan University][fudan] in October 2019. 
 
-She received her Ph.D. in Information Systems at [Fudan University][fudan] in 2019. 
-
-Before that, she received 2 bachelor degrees in 2014, one B.A. in Management Information Systems from [Tianjin University][tianjin-u], and one B.Sc. in Finance from [Nankai University][nankai].
+My research interests lie at the intersection of organizational, behavioral and technical aspects of digital technologies, with a current focus on AI augmented systems and digital platforms. The overarching objective of my research is to uncover how these two technologies can be deployed to empower individuals and organizations in different problem domains. 
 
 [professor-rai]: https://www.arunrai.net/
 [professor-ling]: https://www.fdsm.fudan.edu.cn/en/teacher/preview.aspx?UID=1816
