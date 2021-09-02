@@ -8,6 +8,8 @@ I am a Post-doctoral Research Fellow at [Center for Digital Innovation (CDIN)](c
 
 My research interests lie at the intersection of organizational, behavioral and technical aspects of digital technologies, with a current focus on AI augmented systems and digital platforms. The overarching objective of my research is to uncover how these two technologies can be deployed to empower individuals and organizations in different problem domains. 
 
+I am always happy to chat about research so please don’t hesitate to reach out!
+
 [professor-rai]: https://www.arunrai.net/
 [professor-ling]: https://www.fdsm.fudan.edu.cn/en/teacher/preview.aspx?UID=1816
 
